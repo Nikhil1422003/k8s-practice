@@ -1,7 +1,0 @@
-kind: Namespace
-apiVersion: v1
-metadata:
-  name: k8s
-  labels:
-    name: k8s
-    environment: dev

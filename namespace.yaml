@@ -1,7 +1,7 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: node
+  name: kubernetes
   labels:
-    name: node
+    name: kubernetes
     environment: dev
