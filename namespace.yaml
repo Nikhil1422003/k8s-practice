@@ -1,0 +1,8 @@
+kind: Namespace
+apiversion: v1
+metadata:
+  name: node
+  labels:
+    name: node
+    environment: dev
+    
